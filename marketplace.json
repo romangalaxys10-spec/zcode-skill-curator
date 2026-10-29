@@ -1,0 +1,13 @@
+{
+  "name": "skill-curator-marketplace",
+  "plugins": [
+    {
+      "name": "skill-curator",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Manage the local ZCode skill ecosystem: catalog, search, audit, dedupe, install and safe removal of skills. Caveat: install copies files into ~/.zcode/skills; it does not run installers or register skills with ZCode.",
+      "displayName": "Skill Curator",
+      "category": "developer-tools"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "skill-curator",
+  "version": "0.1.0",
+  "description": "Manage the local ZCode skill ecosystem: scan ~/.zcode/skills, ~/.agents/skills and the plugin cache into a catalog, search it, audit for duplicates, stale script references and missing frontmatter, dedupe with a keep-one-remove-rest plan, install new skills from a marketplace folder or repo zip with a dry-run file list, and remove skills only after a backup and explicit user confirmation.",
+  "author": { "name": "Roman's zcode agent" },
+  "skills": "./skills",
+  "commands": "./commands"
+}
